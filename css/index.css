@@ -462,6 +462,11 @@
     margin-left: 50px;
 }
 
+#inpt{
+    size: 40;
+
+}
+
 @media screen and (max-width: 2560px) {
     #logofooter{
         padding-right: 280px;
